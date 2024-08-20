@@ -1,0 +1,55 @@
+//MAIN-PAGE
+.main-page{
+    background-image: url("/img/main-page-bg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 80px 0 100px 0;
+}
+.main-page_p{
+    line-height: 150%;
+    letter-spacing: 0.1px;
+}
+.main-page_header{
+    line-height: 137%;
+    letter-spacing: 0.2px;
+}
+.main-pag_header-second{
+    line-height: 158%;
+    letter-spacing: 0.2px;
+}
+.custom-btn{
+    background-color: #FA4A0C;
+    color: white;
+}
+
+//HOW THE APP WORKS
+.how-the-app-works{
+    padding: 56px 0 56px 0;
+}
+.how-the-app-works_header{
+    font-size: 36px;
+    font-weight: 700;
+    letter-spacing: 0.1px;
+}
+.login_guide, .ui_guide{
+    color: #FA4A0C;
+}
+
+.login_text, .ui_text{
+    color: #737373;
+}
+
+//ORDER NOW
+.order-now{
+    background-image: url("/img/order-now-bg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 141px 0 130px 0;
+}
+.button-wrap{
+    padding-top: 49px;
+}
+.btn{
+    padding: 16px 45px;
+    border-radius: 10px;
+}
